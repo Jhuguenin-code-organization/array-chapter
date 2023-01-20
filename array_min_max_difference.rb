@@ -7,3 +7,11 @@
 #   difference
 
 array = [12, 23, 41, 73, 19, 6]
+z=array.sort
+p z
+s=z.first
+l=z.last
+p s
+p l
+p l-s
+
